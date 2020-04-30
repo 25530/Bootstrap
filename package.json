@@ -21,6 +21,6 @@
   "homepage": "https://github.com/25530/Bootstrap#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
